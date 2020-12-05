@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/abdo-hassan0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdo-hassan0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6373201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6373201" height="30" width="40" /></a>
 <a href="https://fb.com/abdohassan2810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abdohassan2810" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/computersolutionspc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="computersolutionspc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/AbdoTech0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="computersolutionspc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
