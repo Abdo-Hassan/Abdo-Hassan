@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdocoder0@gmail.com**
 
-- 📄 Know about my experiences [https://abdohassan.info/cv.pdf](https://abdohassan.info/Abdelrahman_Hassan_resume.pdf)
+- 📄 Know about my experiences [My resume](https://abdohassan.info/Abdelrahman_Hassan_resume.pdf)
 
 - ⚡ Fun fact **I Am a GAMER xD**
 
