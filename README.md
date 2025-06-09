@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@abdohassan.info**
 
-- 📄 Know about my experiences [My resume](https://abdohassan.info/Abdelrahman_Hassan_resume.pdf)
+- 📄 Know about my experiences [My Resume](https://abdohassan.info/Abdelrahman_Hassan_Resume.pdf)
 
 - ⚡ Fun fact **I Am a GAMER xD**
 
