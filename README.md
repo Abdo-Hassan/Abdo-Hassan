@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [My Resume](https://abdohassan.info/Abdelrahman_Hassan_Resume.pdf)
 
-- ⚡ Fun fact **I Am a GAMER xD**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abdohassan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abdohassan" height="30" width="40" /></a>
